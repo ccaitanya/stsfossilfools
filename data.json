@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "category": "politics",
+        "isAD": false,
+        "userName": "InSolidarity",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Paano naman yun mga pinatay nila na walang kalaban Laban? Naawa ba kayo?",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_1.png",
+        "timeAgo": "5 hours ago"
+    },
+    {
+        "id": 2,
+        "category": "politics",
+        "isAD": false,
+        "userName": "PRRDForthePhilippines",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Praying for the safety of our Dearest President Rodrigo Duterte.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_2.jpg",
+        "timeAgo": "1 week ago"
+    },
+    {
+        "id": 3,
+        "category": "politics",
+        "isAD": false,
+        "userName": "baconscoop",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "Slay Ms Maem! Glowing with transparency and accountability 💅✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_3.png",
+        "timeAgo": "12 hours ago"
+    },
+    {
+        "id": 4,
+        "category": "politics",
+        "isAD": false,
+        "userName": "missaudacity",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Yan kasi problema sa di nagreresearch at ayaw sa research!\nDapat nga auto execution na ang anti-political dynasty ng ating Constitution dahil maliwanag pa ito sa sikat ng araw. Ang bawal ay bawal.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_4.jpeg",
+        "timeAgo": "2 hours ago"
+    },
+    {
+        "id": 5,
+        "category": "politics",
+        "isAD": false,
+        "userName": "leinpop",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "Sir, status update naman dyan?",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_5.jpeg",
+        "timeAgo": "27 minutes ago"
+    },
+    {
+        "id": 6,
+        "category": "politics",
+        "isAD": false,
+        "userName": "tambaysabubong",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_6.jpeg",
+        "timeAgo": "5 days ago"
+    },
+    {
+        "id": 7,
+        "category": "politics",
+        "isAD": false,
+        "userName": "evenmoresupremo",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Honestly, dasurb  🤭 🤭",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_7.png",
+        "timeAgo": "2 weeks ago"
+    },
+    {
+        "id": 8,
+        "category": "politics",
+        "isAD": false,
+        "userName": "yuuplus",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Never forget the lives taken by War on Drugs. Arrest Duterte!",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_8.png",
+        "timeAgo": "3 days ago"
+    },
+    {
+        "id": 9,
+        "category": "politics",
+        "isAD": false,
+        "userName": "HappyCloud",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": "This is one step in the right direction. May justice be served.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_9.jpeg",
+        "timeAgo": "16 hours ago"
+    },
+    {
+        "id": 10,
+        "category": "politics",
+        "isAD": false,
+        "userName": "bini_bibingka",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics/politics_10.jpeg",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 11,
+        "category": "politics",
+        "isAD": true,
+        "userName": "CamilleVillarPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "Serbisyong maaasahan, kinabukasang may pag-asa! 💙🇵🇭 Sama-sama nating itaguyod ang mas maunlad na bansa. #VillarParaSaBayan",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad1.png",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 12,
+        "category": "politics",
+        "isAD": true,
+        "userName": "AbalosParaSaBayan",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Tunay na liderato, tunay na malasakit. 💪 Isang bagong yugto para sa ating bayan! #AbalosForThePeople",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad2.jpeg",
+        "timeAgo": "25 days ago"
+    },
+    {
+        "id": 13,
+        "category": "politics",
+        "isAD": true,
+        "userName": "KikoPangilinan2025",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "Agrikultura, kabuhayan, at kinabukasan! 🌾 Para sa mas magandang bukas, ipaglaban natin ang tamang pamamahala. #GalingAtGawa",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad3.jpg",
+        "timeAgo": "7 minutes ago"
+    },
+    {
+        "id": 14,
+        "category": "politics",
+        "isAD": true,
+        "userName": "AnakbayanPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "Kabataan, tayo ang pag-asa! ✊ Huwag matakot manindigan para sa ating kinabukasan. #TunayNaPagbabago",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad4.jpg",
+        "timeAgo": "5 minutes ago"
+    },
+    {
+        "id": 15,
+        "category": "politics",
+        "isAD": true,
+        "userName": "Quiboloy2025",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": "Isang bansang sumusunod sa kalooban ng Ama. 🙏 Sama-sama tayong lumikha ng mas maayos na Pilipinas. #BagongPilipinas",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad5.jpg",
+        "timeAgo": "30 minutes ago"
+    },
+    {
+        "id": 16,
+        "category": "politics",
+        "isAD": true,
+        "userName": "BayanihanPrints",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Mabilis, dekalidad, at abot-kayang campaign materials! 📢🗳️ I-print na ang inyong tarpaulins at posters ngayon! #CampaignReady",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad6.jpg",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 17,
+        "category": "politics",
+        "isAD": true,
+        "userName": "TarpaulinExpress",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Siguraduhing litaw ang pangalan mo sa eleksyon! 🏆📜 High-quality tarps and flyers for every campaign. #PrintYourVictory",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad7.png",
+        "timeAgo": "25 days ago"
+    },
+    {
+        "id": 18,
+        "category": "politics",
+        "isAD": true,
+        "userName": "CampaignGearPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "Hindi lang boto ang kailangan—branding din! 🧢🎽 Customize your shirts, caps, and banners today! #WinWithStyle",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad8.png",
+        "timeAgo": "7 minutes ago"
+    },
+    {
+        "id": 19,
+        "category": "politics",
+        "isAD": true,
+        "userName": "PowerVotePH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Huwag magpahuli sa eleksyon! 🗳️💥 I-secure na ang iyong tarpaulins, flyers, at giveaways para sa 2025. #ElectionReady",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad9.jpeg",
+        "timeAgo": "5 minutes ago"
+    },
+    {
+        "id": 20,
+        "category": "politics",
+        "isAD": true,
+        "userName": "HalalanSupplies",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "Lakas ng suporta, lakas ng lider! 🎤📢 From stickers to banners, we’ve got everything for your campaign. #YourVoteYourVoice",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/politics_ad/politics_ad10.jpeg",
+        "timeAgo": "30 minutes ago"
+    },
+    {
+        "id": 21,
+        "category": "pet",
+        "isAD": false,
+        "userName": "Pawfect Pups Adventures",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "Living my best pawsome life! 🐾✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_1.jpg",
+        "timeAgo": "3 days ago"
+    },
+    {
+        "id": 22,
+        "category": "pet",
+        "isAD": false,
+        "userName": "WoofWoofTails",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Furry, fabulous, and full of love. ❤️🐶",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_2.jpg",
+        "timeAgo": "12 minutes ago"
+    },
+    {
+        "id": 23,
+        "category": "pet",
+        "isAD": false,
+        "userName": "LilBarkyBoi",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Wag more, bark less. 🐾",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_3.jpg",
+        "timeAgo": "1 hour ago"
+    },
+    {
+        "id": 24,
+        "category": "pet",
+        "isAD": false,
+        "userName": "PuppyLoveDaily",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": " ",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_4.jpg",
+        "timeAgo": "9 days ago"
+    },
+    {
+        "id": 25,
+        "category": "pet",
+        "isAD": false,
+        "userName": "FurryFriends",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": " ",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_5.jpg",
+        "timeAgo": "1 week ago"
+    },
+    {
+        "id": 26,
+        "category": "pet",
+        "isAD": false,
+        "userName": "FurryFriends",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "Bow down, hooman. I rule this house. 👑🐱",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_6.jpg",
+        "timeAgo": "19 days ago"
+    },
+    {
+        "id": 27,
+        "category": "pet",
+        "isAD": false,
+        "userName": "FurryBeanPaws",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Purrfection takes practice. 😽✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_7.jpg",
+        "timeAgo": "2 weeks ago"
+    },
+    {
+        "id": 28,
+        "category": "pet",
+        "isAD": false,
+        "userName": "PuppyLoveDaily",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "Nap hard, play harder. 💤🐾",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_8.jpg",
+        "timeAgo": "6 hours ago"
+    },
+    {
+        "id": 29,
+        "category": "pet",
+        "isAD": false,
+        "userName": "KittyKattys",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "Meow or never! 🐱💬",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_8.jpg",
+        "timeAgo": "27 minutes ago"
+    },
+    {
+        "id": 30,
+        "category": "pet",
+        "isAD": false,
+        "userName": "CatIMaKittyCat",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet/pet_10.jpg",
+        "timeAgo": "11 days ago"
+    },
+    {
+        "id": 31,
+        "category": "pet",
+        "isAD": true,
+        "userName": "PrettyPups",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Glamour, fluff, and pawsitively stunning! ✨🐶  #ShopPrettyPups",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad1.png",
+        "timeAgo": "5 minutes ago"
+    },
+    {
+        "id": 32,
+        "category": "pet",
+        "isAD": true,
+        "userName": "PupSnacks",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Tail-wagging treats for the goodest pups! 🦴🐾 Order now! 🛒",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad2.png",
+        "timeAgo": "23 days ago"
+    },
+    {
+        "id": 33,
+        "category": "pet",
+        "isAD": true,
+        "userName": "BarkyBites",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "Crunchy, munchy, and totally barkworthy! 🐕🍖 Get yours today!",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad3.jpg",
+        "timeAgo": "18 hours ago"
+    },
+    {
+        "id": 34,
+        "category": "pet",
+        "isAD": true,
+        "userName": "TailWagTreats",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Made with love, packed with flavor! 🦴🐾 Give your furry friend a treat they’ll love. Order now! #TailWaggingGood",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad4.jpg",
+        "timeAgo": "2 hours ago"
+    },
+    {
+        "id": 35,
+        "category": "pet",
+        "isAD": true,
+        "userName": "MeowChic",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "Feline fashion at its finest. 😼✨ Spoil your kitty with the latest pet trends! #PurrfectStyle",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad5.jpg",
+        "timeAgo": "10 days ago"
+    },
+    {
+        "id": 36,
+        "category": "pet",
+        "isAD": true,
+        "userName": "BarkBoxDelights",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "Surprises every month, tail wags guaranteed! 🎁🐕 Subscribe today and make your pup’s day! #HappyPupClub",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad6.jpg",
+        "timeAgo": "3 hours ago"
+    },
+    {
+        "id": 37,
+        "category": "pet",
+        "isAD": true,
+        "userName": "CozyPawsBeds",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Every pet deserves sweet dreams. 💤🐾 Get the comfiest pet beds today! #SleepyPaws",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad7.jpg",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 38,
+        "category": "pet",
+        "isAD": true,
+        "userName": "PuppyPlayTime",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Endless fun, endless love! 🐕💖 Find the best toys for your playful pup now! #FetchAndPlay",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad8.png",
+        "timeAgo": "25 days ago"
+    },
+    {
+        "id": 39,
+        "category": "pet",
+        "isAD": true,
+        "userName": "WhiskerWellness",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": "Healthy fur, happy purrs. 🐱✨ Pamper your pet with the best grooming essentials! #WhiskerCare",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad9.jpeg",
+        "timeAgo": "7 minutes ago"
+    },
+    {
+        "id": 40,
+        "category": "pet",
+        "isAD": true,
+        "userName": "PawsomeAdventures",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": "Adventure awaits! 🌲🐾 Get the best pet gear for your next outdoor journey! #ExploreWithPaws",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/pet_ad/pet_ad10.png",
+        "timeAgo": "5 minutes ago"
+    },
+    {
+        "id": 41,
+        "category": "sports",
+        "isAD": false,
+        "userName": "CrossoverKing",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "Legends are made, not born. 🏆",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_1.jpg",
+        "timeAgo": "30 minutes ago"
+    },
+    {
+        "id": 42,
+        "category": "sports",
+        "isAD": false,
+        "userName": "ClutchHooper",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Hustle, hit, and never quit. 💪🏀",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_2.jpg",
+        "timeAgo": "4 weeks ago"
+    },
+    {
+        "id": 43,
+        "category": "sports",
+        "isAD": false,
+        "userName": "IronFistLegacy",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "Hard work beats talent when talent doesn’t work hard. 💪",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_3.jpg",
+        "timeAgo": "16 days ago"
+    },
+    {
+        "id": 44,
+        "category": "sports",
+        "isAD": false,
+        "userName": "RedZoneRush",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "Some dream of touchdowns, I make them. 💨🏈",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_4.jpg",
+        "timeAgo": "11 days ago"
+    },
+    {
+        "id": 45,
+        "category": "sports",
+        "isAD": false,
+        "userName": "WorldCupMindset",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": "Messi mindset, Ronaldo work ethic. 💪",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_5.jpg",
+        "timeAgo": "9 days ago"
+    },
+    {
+        "id": 46,
+        "category": "sports",
+        "isAD": false,
+        "userName": "StrikerVision",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Chasing goals—literally. 🥅",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_6.jpg",
+        "timeAgo": "1 week ago"
+    },
+    {
+        "id": 47,
+        "category": "sports",
+        "isAD": false,
+        "userName": "StrikerVision",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "90 minutes, no excuses. ⏳🥅",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_7.jpg",
+        "timeAgo": "18 hours ago"
+    },
+    {
+        "id": 48,
+        "category": "sports",
+        "isAD": false,
+        "userName": "GoldenBootX",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "One team, one dream. ⚽💥",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_8.jpg",
+        "timeAgo": "2 hours ago"
+    },
+    {
+        "id": 49,
+        "category": "sports",
+        "isAD": false,
+        "userName": "HailMaryHustle",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Every yard counts. 🚀",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_9.jpg",
+        "timeAgo": "10 days ago"
+    },
+    {
+        "id": 50,
+        "category": "sports",
+        "isAD": false,
+        "userName": "KO_KingX",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "Float like a butterfly, sting like a bee. 🐝🔥",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports/sports_10.jpg",
+        "timeAgo": "25 days ago"
+    },
+    {
+        "id": 51,
+        "category": "sports",
+        "isAD": true,
+        "userName": "HoopDreamsGear",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "Dominate the game. 🏆🔥 Get the gear that keeps you ahead! 🏀 #StayInTheGame #HoopDreams",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad1.png",
+        "timeAgo": "2 days ago"
+    },
+    {
+        "id": 52,
+        "category": "sports",
+        "isAD": true,
+        "userName": "EliteCourtShoes",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Built for speed, made for champions. 🔥 Step up your game with every move! 👟🏀 #GameOn #ElitePerformance",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad2.jpeg",
+        "timeAgo": "13 hours ago"
+    },
+    {
+        "id": 53,
+        "category": "sports",
+        "isAD": true,
+        "userName": "GridironGear",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Champions aren’t born—they’re built. 🏆💪 Get the gear that takes your game to the next level! 🏈🔥 #PlayLikeAPro",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad3.png",
+        "timeAgo": "5 minutes ago"
+    },
+    {
+        "id": 54,
+        "category": "sports",
+        "isAD": true,
+        "userName": "BlitzCleats",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": "Speed. Power. Precision. The right cleats make all the difference. ⚡👟 Get yours today! #OwnTheField",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad4.jpg",
+        "timeAgo": "23 days ago"
+    },
+    {
+        "id": 55,
+        "category": "sports",
+        "isAD": true,
+        "userName": "StrikerElite",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": "One shot. One goal. One legend. 🌟🔥 Gear up and take your game to the next level! ⚽ #PlayLikeAPro",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad5.jpg",
+        "timeAgo": "3 hours ago"
+    },
+    {
+        "id": 56,
+        "category": "sports",
+        "isAD": true,
+        "userName": "VelocityCleats",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "Speed wins games. ⚡⚽ Get the cleats that keep you ahead of the competition. Shop now! #UnleashYourGame",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad6.png",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 57,
+        "category": "sports",
+        "isAD": true,
+        "userName": "IronFistGym",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Strength. Discipline. Victory. 🥊💥 Train like a champion—join today! #FightForIt #TrainHard",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad7.jpg",
+        "timeAgo": "19 hours ago"
+    },
+    {
+        "id": 58,
+        "category": "sports",
+        "isAD": true,
+        "userName": "KnockoutFitness",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "Burn calories. Build confidence. Hit harder. 🥊💪 Join the ultimate boxing workout today! #TrainLikeAChamp",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad8.jpg",
+        "timeAgo": "45 minutes ago"
+    },
+    {
+        "id": 59,
+        "category": "sports",
+        "isAD": true,
+        "userName": "KnockoutGear",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "Power meets precision. 🥊🔥 Gear up and dominate the ring! #FightReady",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad9.jpg",
+        "timeAgo": "2 hours ago"
+    },
+    {
+        "id": 60,
+        "category": "sports",
+        "isAD": true,
+        "userName": "SpeedsterAthletics",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": "Speed isn’t just an advantage—it’s everything. ⚡🏃‍♂️ Push your limits today! #NoLimits",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/sports_ad/sports_ad10.png",
+        "timeAgo": "10 days ago"
+    },
+    {
+        "id": 61,
+        "category": "food",
+        "isAD": false,
+        "userName": "CrispyCravings",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Crunchy Karaage 😋",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_1.jpeg",
+        "timeAgo": "17 days ago"
+    },
+    {
+        "id": 62,
+        "category": "food",
+        "isAD": false,
+        "userName": "FoodieFromScratch",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Made this from scratch my baes!!",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_2.jpeg",
+        "timeAgo": "8 hours ago"
+    },
+    {
+        "id": 63,
+        "category": "food",
+        "isAD": false,
+        "userName": "BakeItTillYouMakeIt",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "First time baking banana bread and it slaps 🔥🔥🔥",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_3.jpg",
+        "timeAgo": "1 month ago"
+    },
+    {
+        "id": 64,
+        "category": "food",
+        "isAD": false,
+        "userName": "EdibleMasterpiece",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "\"When food becomes art, every bite is a masterpiece. Enjoying the simple pleasures in life.\"",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_4.jpeg",
+        "timeAgo": "12 hours ago"
+    },
+    {
+        "id": 65,
+        "category": "food",
+        "isAD": false,
+        "userName": "SweetToothVibes",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "Life is short, eat dessert first!",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_5.jpg",
+        "timeAgo": "9 minutes ago"
+    },
+    {
+        "id": 66,
+        "category": "food",
+        "isAD": false,
+        "userName": "WarmBowlVibes",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "Sometimes all you need is a warm bowl of comfort food to make everything better. Cozy nights and full hearts.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_6.jpg",
+        "timeAgo": "2 minutes ago"
+    },
+    {
+        "id": 67,
+        "category": "food",
+        "isAD": false,
+        "userName": "TastingTheWorld",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Traveling the world one dish at a time. Discovering new cultures through food is the best journey.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_7.jpg",
+        "timeAgo": "4 days ago"
+    },
+    {
+        "id": 68,
+        "category": "food",
+        "isAD": false,
+        "userName": "TasteScentiments",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_8.jpg",
+        "timeAgo": "21 days ago"
+    },
+    {
+        "id": 69,
+        "category": "food",
+        "isAD": false,
+        "userName": "LordGigglebyte",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_9.png",
+        "timeAgo": "4 hours ago"
+    },
+    {
+        "id": 70,
+        "category": "food",
+        "isAD": false,
+        "userName": "AnitaWin",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": null,
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food/food_10.jpg",
+        "timeAgo": "12 minutes ago"
+    },
+    {
+        "id": 71,
+        "category": "food",
+        "isAD": true,
+        "userName": "FlavorFiesta",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "Bigger. Juicier. Better. 🍔🔥 Satisfy your cravings—order now! #BiteIntoPerfection",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad1.png",
+        "timeAgo": "14 days ago"
+    },
+    {
+        "id": 72,
+        "category": "food",
+        "isAD": true,
+        "userName": "CheesyBites",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Melted cheese, crispy crust—every bite is heaven. 🧀🍕 Grab a slice today! #CheesePullGoals",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad2.jpg",
+        "timeAgo": "20 days ago"
+    },
+    {
+        "id": 73,
+        "category": "food",
+        "isAD": true,
+        "userName": "SweetTreatsDaily",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "Happiness is just a donut away! 🍩✨ Treat yourself—because you deserve it! #SweetToothSatisfaction",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad3.jpg",
+        "timeAgo": "6 days ago"
+    },
+    {
+        "id": 74,
+        "category": "food",
+        "isAD": true,
+        "userName": "SizzlePlates",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "Hot, fresh, and sizzling! 🍳🔥 Every bite is a flavor explosion. #SizzleAndServe",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad4.jpg",
+        "timeAgo": "10 days ago"
+    },
+    {
+        "id": 75,
+        "category": "food",
+        "isAD": true,
+        "userName": "GoldenCrisp",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": "Crispy, golden, and absolutely irresistible! 🍗✨ One bite and you're hooked. #CrispyDelight",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad5.jpg",
+        "timeAgo": "3 hours ago"
+    },
+    {
+        "id": 76,
+        "category": "food",
+        "isAD": true,
+        "userName": "DailyBakes",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Freshly baked goodness straight from the oven! 🥐🍞 Because warm bread is happiness. #BakedWithLove",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad6.png",
+        "timeAgo": "1 day ago"
+    },
+    {
+        "id": 77,
+        "category": "food",
+        "isAD": true,
+        "userName": "CrispyCravings",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Crunchy on the outside, juicy on the inside. 🍗🔥 The ultimate crispy bite awaits! #CrispyPerfection",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad7.jpg",
+        "timeAgo": "25 days ago"
+    },
+    {
+        "id": 78,
+        "category": "food",
+        "isAD": true,
+        "userName": "SizzleGrill",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "Sizzling hot, straight off the grill! 🔥🥩 The taste you crave, the quality you deserve. #GrillMasters",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad8.jpg",
+        "timeAgo": "7 minutes ago"
+    },
+    {
+        "id": 79,
+        "category": "food",
+        "isAD": true,
+        "userName": "FreshBitesOnly",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Fresh, flavorful, and made with love! 🥗🥑 Healthy eating never tasted this good! #EatFreshLiveWell",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad9.jpg",
+        "timeAgo": "15 days ago"
+    },
+    {
+        "id": 80,
+        "category": "food",
+        "isAD": true,
+        "userName": "TastyTwists",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "A twist on your favorites—because food should be fun! 🍜🎉 Try something new today! #TastySurprise",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/food_ad/food_ad10.png",
+        "timeAgo": "19 hours ago"
+    },
+    {
+        "id": 81,
+        "category": "art",
+        "isAD": false,
+        "userName": "VanGoghLife",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "\"Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.\" \n- Vincent van Gogh ✨✨✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_1.png",
+        "timeAgo": "24 days ago"
+    },
+    {
+        "id": 82,
+        "category": "art",
+        "isAD": false,
+        "userName": "KeaneLennon",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Those who cannot remember the past are condemned to repeat it.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_2.jpeg",
+        "timeAgo": "10 hours ago"
+    },
+    {
+        "id": 83,
+        "category": "art",
+        "isAD": false,
+        "userName": "JennaSings",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Damn, is the Mona Lisa really that small?",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_3.png",
+        "timeAgo": "21 days ago"
+    },
+    {
+        "id": 84,
+        "category": "art",
+        "isAD": false,
+        "userName": "Watercolorflorist",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": "Before CGI and 3D, there was ink, patience, and the magic of hand-drawn art to make dreams come true. 🎨✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_4.jpeg",
+        "timeAgo": "4 hours ago"
+    },
+    {
+        "id": 85,
+        "category": "art",
+        "isAD": false,
+        "userName": "MissSweetCheeks",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": "I love East Asian iconography in general so much. Wonderful contextualisation.",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_5.jpeg",
+        "timeAgo": "5 hours ago"
+    },
+    {
+        "id": 86,
+        "category": "art",
+        "isAD": false,
+        "userName": "PioneerMinister",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_11.jpg",
+        "caption": "The Manunggul Jar is more than just an artifact—it’s a whisper from our ancestors, a testament to how even in death, we are guided home. 🚣‍♂️✨",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_6.jpeg",
+        "timeAgo": "3 days ago"
+    },
+    {
+        "id": 87,
+        "category": "art",
+        "isAD": false,
+        "userName": "BurntoutBlues",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_12.jpg",
+        "caption": "Who needs a time machine when Dionela’s music already takes you back?",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_7.jpeg",
+        "timeAgo": "12 minutes ago"
+    },
+    {
+        "id": 88,
+        "category": "art",
+        "isAD": false,
+        "userName": "KaitlynTheStarMwa",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_13.png",
+        "caption": "\"Music expresses that which cannot be said and on which it is impossible to be silent.\" -Victor Hugo 🎷🎸🎹",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_8.jpeg",
+        "timeAgo": "1 hour ago"
+    },
+    {
+        "id": 89,
+        "category": "art",
+        "isAD": false,
+        "userName": "DragonDanceintheMoonlight",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_14.png",
+        "caption": "TIL that Chinese lion dance isn't just for parades and celebrations. It's also a competitive highly acrobatic sport with an annual world championship. 🐉😮😮",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_9.jpeg",
+        "timeAgo": "2 weeks ago"
+    },
+    {
+        "id": 90,
+        "category": "art",
+        "isAD": false,
+        "userName": "DaschundBeMe",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_15.png",
+        "caption": "Wow, the intricacies of the woodwork really shows the story it intends to tell. Insane craftsmanship!",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art/art_10.jpeg",
+        "timeAgo": "6 hours ago"
+    },
+    {
+        "id": 91,
+        "category": "art",
+        "isAD": true,
+        "userName": "ManilaArtStudio",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_1.jpg",
+        "caption": "Unlock your creativity! 🎨 Join our beginner-friendly art classes and start painting your masterpiece today. #CreateWithUs",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad1.jpg",
+        "timeAgo": "19 days ago"
+    },
+    {
+        "id": 92,
+        "category": "art",
+        "isAD": true,
+        "userName": "NationalMuseumPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_2.jpg",
+        "caption": "Step into history and culture. 🏛️ Explore the masterpieces of the Philippines at the National Museum! #ArtOfTheNation",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad2.jpg",
+        "timeAgo": "15 days ago"
+    },
+    {
+        "id": 93,
+        "category": "art",
+        "isAD": true,
+        "userName": "CreativeMindsPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_3.jpg",
+        "caption": "Art is for everyone! ✨ Whether you're a beginner or a pro, our workshops will take your skills to the next level. #LearnCreateInspire",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad3.jpeg",
+        "timeAgo": "19 hours ago"
+    },
+    {
+        "id": 94,
+        "category": "art",
+        "isAD": true,
+        "userName": "PintoArtGallery",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_4.png",
+        "caption": "Escape into a world of color and imagination! 🌿 Visit Pinto Art Museum and experience art in nature. #PintoArtExperience",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad4.png",
+        "timeAgo": "24 days ago"
+    },
+    {
+        "id": 95,
+        "category": "art",
+        "isAD": true,
+        "userName": "MasterpieceWorkshops",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_5.png",
+        "caption": "You don’t need talent, just passion! 🎨 Join our art workshops and let’s bring your ideas to life. #MakeYourMasterpiece",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad5.jpg",
+        "timeAgo": "10 hours ago"
+    },
+    {
+        "id": 96,
+        "category": "art",
+        "isAD": true,
+        "userName": "ArtInMotionPH",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_6.png",
+        "caption": "Explore the power of movement and expression through visual and performing arts! 🖌️🎭 Sign up today! #ArtInMotion",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad6.jpg",
+        "timeAgo": "21 days ago"
+    },
+    {
+        "id": 97,
+        "category": "art",
+        "isAD": true,
+        "userName": "PhilippineMuseumTours",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_7.jpg",
+        "caption": "Discover the hidden gems of Philippine art and culture! 🏺 Book a guided tour now and immerse yourself in creativity. #MuseumWonders",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad7.jpg",
+        "timeAgo": "4 hours ago"
+    },
+    {
+        "id": 98,
+        "category": "art",
+        "isAD": true,
+        "userName": "CanvasAndCoffee",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_8.jpg",
+        "caption": "Art and coffee—what more could you ask for? ☕🎨 Join our sip & paint sessions for a relaxing creative escape! #SipAndPaintPH",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad8.png",
+        "timeAgo": "5 hours ago"
+    },
+    {
+        "id": 99,
+        "category": "art",
+        "isAD": true,
+        "userName": "LocalArtistsHub",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_9.jpeg",
+        "caption": "Support local artists! 🖼️ Explore unique handmade pieces from talented Filipino creatives. #BuyLocalArt",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad9.png",
+        "timeAgo": "3 days ago"
+    },
+    {
+        "id": 100,
+        "category": "art",
+        "isAD": true,
+        "userName": "BrushstrokeAcademy",
+        "profilePicture": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/profile/pfp_10.jpeg",
+        "caption": "Dreaming of becoming an artist? 🖌️ Our expert-led courses will teach you the fundamentals of painting and drawing. #StartYourArtJourney",
+        "media": "https://raw.githubusercontent.com/ccaitanya/stsfossilfools/main/art_ad/art_ad10.jpeg",
+        "timeAgo": "12 minutes ago"
+    }
+]
